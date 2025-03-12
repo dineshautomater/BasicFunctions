@@ -1,1 +1,7 @@
+Feature : Write the code for  Modify the Functionalities
+Scenario : Modify Valid "UserName" and "Password"
 
+Given User navigate with the Homepage
+And The BG of the HomePage Changed
+When User clicks the Signout Button
+Then User Successfully logged out
