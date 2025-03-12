@@ -1,0 +1,8 @@
+Feature : Write the code for  Update Functionalities
+Scenario : Update Valid "UserName" and "Password"
+
+Given User navigate with the Homepage
+And The Picture of the HomePage Changed
+When User clicks the Signout Button
+Then User Successfully logged out
+Then User Close the Browser
